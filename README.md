@@ -31,7 +31,7 @@
 ---
 
 ## 💻 사용언어
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue-.js-blue)
 <!--
 **hyeokjun9035/hyeokjun9035** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

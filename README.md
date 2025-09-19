@@ -1,4 +1,4 @@
-<https://github.com/hyeokjun9035/hyeokjun9035/blob/main/homepage.png>
+![이미지네임]<https://github.com/hyeokjun9035/hyeokjun9035/blob/main/homepage.png>
 
 ## 프로젝트 소개 👋
 ---

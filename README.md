@@ -1,7 +1,7 @@
 ## 프로젝트 소개 👋
-ㅋㅋㅋ
 ---
-ㅋㅋㅋㅋ
++ 요양원 홈페이지 제작
++ 평일에 가족들이 개인생활로 요양원 방문이 힘들 때 요양 보호사들의 일지로 잘 지내는지 확인할 수 있도록 기록을 남겨주고 공유합니다.
 <!--
 **hyeokjun9035/hyeokjun9035** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

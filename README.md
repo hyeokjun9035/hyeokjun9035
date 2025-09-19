@@ -34,7 +34,7 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logocolor=white)
 ![CSS](https://img.shields.io/badge/CSS-yellow)
-![HTML](https://img.shields.io/badge/HTML-yellow)
+![HTML](https://img.shields.io/badge/HTML-#E34F26.svg?style=for-the-badge&logo=HTML&logocolor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 <!--

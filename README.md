@@ -32,11 +32,16 @@
 
 ## 💻 사용언어
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2341B883.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23FFFFFF.svg?style=for-the-badge&logo=express&logoColor=black)
+![Express.js](https://img.shields.io/badge/Express.js-%23F0F0F0.svg?style=for-the-badge&logo=express&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+---
+
+## 📑 페이지별 기능
+⭐ 메인페이지
+
 <!--
 **hyeokjun9035/hyeokjun9035** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

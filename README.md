@@ -32,6 +32,11 @@
 
 ## 💻 사용언어
 ![Vue.js](https://img.shields.io/badge/Vue.js-blue)
+![Express](https://img.shields.io/badge/Express-green)
+![CSS](https://img.shields.io/badge/Express-yellow)
+![HTML](https://img.shields.io/badge/Express-yellow)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 <!--
 **hyeokjun9035/hyeokjun9035** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

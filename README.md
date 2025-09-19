@@ -40,7 +40,12 @@
 ---
 
 ## 📑 페이지별 기능
+
+<img src="https://github.com/hyeokjun9035/hyeokjun9035/blob/main/homepage.png" width="320px" height="325px"> <img src="https://github.com/hyeokjun9035/hyeokjun9035/blob/main/login.png" width="320px" height="325px"> <img src="https://github.com/hyeokjun9035/hyeokjun9035/blob/main/homepage2.png" width="320px" height="325px">
+
 ⭐ 메인페이지
+   + 로그인 화면은 가족과 요양 보호사 로그인을 다르게 만들어 쉽게 데이터 관리를 하고 가족과 요양보호사가 로그인시 서로 다른 기능을 할 수 있도록 만들었습니다.
+    또한 로그인시에는 누가 로그인이 되었는지 
 
 <!--
 **hyeokjun9035/hyeokjun9035** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

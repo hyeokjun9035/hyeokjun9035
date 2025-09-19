@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <td>권혁준</td>
-    <td> <https://github.com/hyeokjun9035> </td>
+    <td> <[https://github.com/hyeokjun9035](https://github.com/hyeokjun9035)> </td>
   </tr>
 </table>
 <!--

@@ -16,7 +16,6 @@
 ---
 
 ## 🤝 팀원구성
-<https://github.com/hyeokjun9035> 
 <table>
   <tr>
     <th>이름</th>
@@ -25,7 +24,7 @@
   <tr>
     <td>권혁준</td>
     <td>
-     <https://github.com/hyeokjun9035> 
+     <a href="https://github.com/hyeokjun9035">hyeokjun9035</a>
     </td>
   </tr>
 </table>

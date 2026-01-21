@@ -27,7 +27,7 @@
 ---
 
 # 📌 Projects
-## <a href="https://github.com/Kimseongmin3790/Team2_SpringProject.git">AGRICOLA</a>(팀 프로젝트, 5인)
+## <a href="https://github.com/Kimseongmin3790/Team2_SpringProject.git">AGRICOLA</a>(팀 프로젝트, 3인)
 >농수산물 직거래 사이트
 ><br>
 >Vue3 + Spring Boot , Oracle
@@ -47,6 +47,25 @@
 + 장바구니 상품 조회 및 화면 구성 기능 담당
 + 주문 정보 조회 및 주문 내역 화면 구현
 + 배송 타입(상온/냉장/냉동)에 따른 배송비 계산 로직 수정 및 적용
+
+---
+
+## <a href="https://github.com/hyeokjun9035/flutterproject_team2.git">오늘 어때</a> (팀 프로젝트, 5인)
+> **생활 밀착형 스마트 정보 모바일 앱**  
+> Flutter · Firebase · Firestore · FCM · 공공 API
+
+### 🔹 주요 기능
++ 날씨 / 대기질 / 교통 정보 제공  
++ 위치 기반 사건·이슈 공유  
++ 실시간 커뮤니티 & 알림 시스템
+
+### 🔹 담당 역할
++ 커뮤니티 메인 화면 구성 및 UI 설계  
++ 게시글 CRUD & 사진·영상 업로드  
++ 지도 위치 등록 및 주소 저장 기능 구현  
++ 댓글 / 대댓글 / 좋아요 / 신고 기능 개발  
++ 게시글 수정·삭제, 이미지 교체 등 관리 기능 구현  
++ 관리자 페이지 알림·게시글 관리 기능 공동 구현 (FCM 연동)
 
 ---
 
@@ -83,25 +102,6 @@
 + 비밀번호 정규식(영문 + 숫자 + 특수문자) 적용  
 + 게시판 CRUD 및 검색 기능 구현  
 + 사용자 흐름 중심 UI 설계
-
----
-
-## <a href="https://github.com/hyeokjun9035/flutterproject_team2.git">오늘 어때</a> (팀 프로젝트, 5인)
-> **생활 밀착형 스마트 정보 모바일 앱**  
-> Flutter · Firebase · Firestore · FCM · 공공 API
-
-### 🔹 주요 기능
-+ 날씨 / 대기질 / 교통 정보 제공  
-+ 위치 기반 사건·이슈 공유  
-+ 실시간 커뮤니티 & 알림 시스템
-
-### 🔹 담당 역할
-+ 커뮤니티 메인 화면 구성 및 UI 설계  
-+ 게시글 CRUD & 사진·영상 업로드  
-+ 지도 위치 등록 및 주소 저장 기능 구현  
-+ 댓글 / 대댓글 / 좋아요 / 신고 기능 개발  
-+ 게시글 수정·삭제, 이미지 교체 등 관리 기능 구현  
-+ 관리자 페이지 알림·게시글 관리 기능 공동 구현 (FCM 연동)
 
 ---
 
